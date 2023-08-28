@@ -209,7 +209,7 @@ Happy coding!
 <p align="center"><img src="READMEIMG/abouttemplate.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
 <h4 align="center" > <ins>Contact Template Page</ins></h4>
-<p align="center"><img src="READMEIMG/cantacttemplate.PNG" alt="logo" width="90%" /></p>
+<p align="center"><img src="READMEIMG/contacttemplate.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
 <h4 align="center" > <ins>Footer Template Section</ins></h4>
 <p align="center"><img src="READMEIMG/footer.PNG" alt="logo" width="90%" /></p>
@@ -226,7 +226,7 @@ Happy coding!
 <br> <h4><ins>Admin :</ins></h4> <br>
 
 <h4 align="center" > <ins>Dashboard Page</ins></h4>
-<p align="center"><img src="READMEIMG/founderdashbord.PNG" alt="logo" width="90%" /></p>
+<p align="center"><img src="READMEIMG/founderdashboard.PNG" alt="logo" width="90%" /></p>
 <p align="center">-------------------------------</p>
 <h4 align="center" > <ins>New Owners Page</ins></h4>
 <p align="center"><img src="READMEIMG/newowners.PNG" alt="logo" width="90%" /></p>
