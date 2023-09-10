@@ -53,6 +53,15 @@
         @endif
     @endif
 @endsection()
+<script>
+    function reloadPage() {
+        setTimeout(function () {
+            location.reload(); // Reload the current page
+        }, 30000); // 30 seconds (adjust the time interval as needed)
+    }
+
+    reloadPage();
+</script>
 <style>
     .alert {
         padding: 20px;
